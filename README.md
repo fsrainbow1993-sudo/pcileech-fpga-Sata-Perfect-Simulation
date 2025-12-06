@@ -73,6 +73,11 @@ I haven't set any traps; you can compile it simply by downloading the complete s
 I've only tested Battleye and PAC. Please test other anti-cheat measures yourself (VTD enabled shouldn't cause any problems; at least on my ASUS motherboard, it worked flawlessly).
 
 
+！！！！！！！！！！！！！！！！！！！After some testing, Apex, FN, and Rust were detected, but Arc was not.
+
+I'm preparing to add more features, and I'll continue to update this post once it's complete.！！！！！！！！！！！！！！！！！！！！！！！！！！
+
+
 
 目前我没有直接提供生成的bin文件
 
@@ -82,6 +87,8 @@ I've only tested Battleye and PAC. Please test other anti-cheat measures yoursel
 ————————————————————————————————————————
 
 我只是测试过battleye  PAC 其他反作弊请自行测试（VTD开启不会有问题，至少我的华硕主板没有任何问题）
+
+
 
 If you have any other suggestions or need help, you can find me here: Email: mytk199408@outlook.com
 Telegram: @Rainbow199311
